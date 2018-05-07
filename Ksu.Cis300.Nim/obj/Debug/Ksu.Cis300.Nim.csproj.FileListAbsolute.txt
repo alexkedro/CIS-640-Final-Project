@@ -43,3 +43,15 @@ U:\CIS 300 Fall 2015\Zakary Kedrovsky CIS 300 Fall 2015\Lab 30\Ksu.Cis300.Nim\Ks
 U:\CIS 300 Fall 2015\Zakary Kedrovsky CIS 300 Fall 2015\Lab 30\Ksu.Cis300.Nim\Ksu.Cis300.Nim\obj\Debug\Ksu.Cis300.Nim.Properties.Resources.resources
 U:\CIS 300 Fall 2015\Zakary Kedrovsky CIS 300 Fall 2015\Lab 30\Ksu.Cis300.Nim\Ksu.Cis300.Nim\obj\Debug\Ksu.Cis300.Nim.UserInterface.resources
 U:\CIS 300 Fall 2015\Zakary Kedrovsky CIS 300 Fall 2015\Lab 30\Ksu.Cis300.Nim\Ksu.Cis300.Nim\obj\Debug\Ksu.Cis300.Nim.csproj.GenerateResource.Cache
+D:\Documents\School\CIS 640\Final Project\src2\Ksu.Cis300.Nim\Ksu.Cis300.Nim\bin\Debug\Ksu.Cis300.Nim.exe.config
+D:\Documents\School\CIS 640\Final Project\src2\Ksu.Cis300.Nim\Ksu.Cis300.Nim\bin\Debug\Ksu.Cis300.Nim.exe
+D:\Documents\School\CIS 640\Final Project\src2\Ksu.Cis300.Nim\Ksu.Cis300.Nim\bin\Debug\Ksu.Cis300.Nim.pdb
+D:\Documents\School\CIS 640\Final Project\src2\Ksu.Cis300.Nim\Ksu.Cis300.Nim\obj\Debug\Ksu.Cis300.Nim.csprojResolveAssemblyReference.cache
+D:\Documents\School\CIS 640\Final Project\src2\Ksu.Cis300.Nim\Ksu.Cis300.Nim\obj\Debug\Ksu.Cis300.Nim.Properties.Resources.resources
+D:\Documents\School\CIS 640\Final Project\src2\Ksu.Cis300.Nim\Ksu.Cis300.Nim\obj\Debug\Ksu.Cis300.Nim.UserInterface.resources
+D:\Documents\School\CIS 640\Final Project\src2\Ksu.Cis300.Nim\Ksu.Cis300.Nim\obj\Debug\Ksu.Cis300.Nim.csproj.GenerateResource.cache
+D:\Documents\School\CIS 640\Final Project\src2\Ksu.Cis300.Nim\Ksu.Cis300.Nim\obj\Debug\Ksu.Cis300.Nim.csproj.CoreCompileInputs.cache
+D:\Documents\School\CIS 640\Final Project\src2\Ksu.Cis300.Nim\Ksu.Cis300.Nim\obj\Debug\Ksu.Cis300.Nim.exe
+D:\Documents\School\CIS 640\Final Project\src2\Ksu.Cis300.Nim\Ksu.Cis300.Nim\obj\Debug\Ksu.Cis300.Nim.pdb
+D:\Documents\School\CIS 640\Final Project\src2\Ksu.Cis300.Nim\Ksu.Cis300.Nim\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Documents\School\CIS 640\Final Project\src2\Ksu.Cis300.Nim\Ksu.Cis300.Nim\obj\Debug\Ksu.Cis300.Nim.csproj.CopyComplete

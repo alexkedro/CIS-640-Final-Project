@@ -113,7 +113,7 @@ namespace Ksu.Cis300.Nim
         /// <param name="x">One board position.</param>
         /// <param name="y">The other board position.</param>
         /// <returns></returns>
-        public static bool operator ==(Board x, Board y)
+        public static bool operator == (Board x, Board y)
         {
             if (Equals(x, null))
             {

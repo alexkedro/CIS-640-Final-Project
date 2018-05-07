@@ -12,6 +12,7 @@ namespace Ksu.Cis300.Nim
         /// The main entry point for the application.
         /// </summary>
         [STAThread]
+        [System.Diagnostics.CodeAnalysis.ExcludeFromCodeCoverage]
         static void Main()
         {
             Application.EnableVisualStyles();

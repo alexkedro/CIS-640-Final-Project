@@ -15,6 +15,7 @@ namespace Ksu.Cis300.Nim
     /// <summary>
     /// A GUI for a program that plays a variant of Nim.
     /// </summary>
+    [System.Diagnostics.CodeAnalysis.ExcludeFromCodeCoverage] 
     public partial class UserInterface : Form
     {
         /// <summary>

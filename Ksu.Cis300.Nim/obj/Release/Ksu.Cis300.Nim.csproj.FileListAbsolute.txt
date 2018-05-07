@@ -1,0 +1,11 @@
+D:\Documents\School\CIS 640\Final Project\src2\Ksu.Cis300.Nim\Ksu.Cis300.Nim\bin\Release\Ksu.Cis300.Nim.exe.config
+D:\Documents\School\CIS 640\Final Project\src2\Ksu.Cis300.Nim\Ksu.Cis300.Nim\bin\Release\Ksu.Cis300.Nim.exe
+D:\Documents\School\CIS 640\Final Project\src2\Ksu.Cis300.Nim\Ksu.Cis300.Nim\bin\Release\Ksu.Cis300.Nim.pdb
+D:\Documents\School\CIS 640\Final Project\src2\Ksu.Cis300.Nim\Ksu.Cis300.Nim\bin\Release\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Documents\School\CIS 640\Final Project\src2\Ksu.Cis300.Nim\Ksu.Cis300.Nim\obj\Release\Ksu.Cis300.Nim.Properties.Resources.resources
+D:\Documents\School\CIS 640\Final Project\src2\Ksu.Cis300.Nim\Ksu.Cis300.Nim\obj\Release\Ksu.Cis300.Nim.UserInterface.resources
+D:\Documents\School\CIS 640\Final Project\src2\Ksu.Cis300.Nim\Ksu.Cis300.Nim\obj\Release\Ksu.Cis300.Nim.csproj.GenerateResource.cache
+D:\Documents\School\CIS 640\Final Project\src2\Ksu.Cis300.Nim\Ksu.Cis300.Nim\obj\Release\Ksu.Cis300.Nim.csproj.CoreCompileInputs.cache
+D:\Documents\School\CIS 640\Final Project\src2\Ksu.Cis300.Nim\Ksu.Cis300.Nim\obj\Release\Ksu.Cis300.Nim.csproj.CopyComplete
+D:\Documents\School\CIS 640\Final Project\src2\Ksu.Cis300.Nim\Ksu.Cis300.Nim\obj\Release\Ksu.Cis300.Nim.exe
+D:\Documents\School\CIS 640\Final Project\src2\Ksu.Cis300.Nim\Ksu.Cis300.Nim\obj\Release\Ksu.Cis300.Nim.pdb
